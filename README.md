@@ -143,7 +143,7 @@ Screenshots from dashboard
 
 ### Correlation Matrix
 
-![Correlation Matrix](images/Correlation_Matrix.jpg)
+![Correlation Matrix](images/Correlation_matrix.jpg)
 
 ### Feature Importance
 
