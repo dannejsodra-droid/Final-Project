@@ -112,13 +112,13 @@ python -m venv .venv
 source .venv/bin/activate
 ```
 
-### Install Dependencies
+### 3. Install Dependencies
 Run this in the terminal:
 ```bash
 pip install -r requirements.txt
 ```
 
-### Start the Dahboard
+### 4. Start the Dahboard
 Run this in the terminal:
 ```bash
 python dashboard.py
