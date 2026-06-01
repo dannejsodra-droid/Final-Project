@@ -111,7 +111,7 @@ pip install -r requirements.txt
 python dashboard.py
 
 ### Open the Dashboard in browser
-http://127.0.0.1:8050
+http://127.0.0.1:8050/ 
 
 
 ## Technologies Used
