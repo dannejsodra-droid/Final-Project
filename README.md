@@ -94,7 +94,7 @@ model.py - Model training and evaluation
 dashboard.py - Interactive Dash dashboard
 
 
-## Installation and setup
+## Walkthrough to open Dashboard
 
 ### Clone the repository
 ### 1. Clone the Repository
