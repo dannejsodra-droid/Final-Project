@@ -94,24 +94,36 @@ dashboard.py - Interactive Dash dashboard
 
 
 ## Installation
-### clone the repository
-git clone <repository-url>
-cd <repository-name>
 
-### Create a Virutal Environment
+### Clone the repository
+```bash
+git clone https://github.com/dannejsodra-droid/Final-Project.git
+cd Final-Project
+```
+
+### Create a Virtual Environment
+```bash
 python -m venv .venv
 source .venv/bin/activate
+```
 
 ### Install Dependencies
+```bash
 pip install -r requirements.txt
+```
 
 
 ## Running the Dashboard
-### Start the Application
-python dashboard.py
 
-### Open the Dashboard in browser
-http://127.0.0.1:8050/ 
+### Start the Application
+```bash
+python dashboard.py
+```
+Then open:
+```text
+http://127.0.0.1:8050/
+```
+in your browser.
 
 
 ## Technologies Used
