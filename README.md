@@ -125,6 +125,34 @@ http://127.0.0.1:8050/
 ```
 in your browser.
 
+Screenshots from dashboard
+
+````md
+## Dashboard Preview
+
+### Key Descriptive Statistics
+
+![Key Descriptive Statistics](images/Key descriptives.jpg)
+
+### Stock Price Development
+
+![Stock Price](images/Stock price.jpg)
+
+### Daily Returns Distribution
+
+![Daily Returns](images/Daily returns.jpg)
+
+### Correlation Matrix
+
+![Correlation Matrix](images/Correlation Matrix.jpg)
+
+### Feature Importance
+
+![Feature Importance](images/Feature importance.jpg)
+
+### Confusion Matrix
+
+![Confusion Matrix](images/Confusion matrix.jpg)
 
 ## Technologies Used
 * Python
