@@ -94,29 +94,32 @@ model.py - Model training and evaluation
 dashboard.py - Interactive Dash dashboard
 
 
-## Installation
+## Installation and setup
 
 ### Clone the repository
+### 1. Clone the Repository
+
+Open VS Code and open a new terminal:
+Run:
 ```bash
 git clone https://github.com/dannejsodra-droid/Final-Project.git
 cd Final-Project
 ```
-
-### Create a Virtual Environment
+### 2. Create a Virtual Environment
+Run this in the terminal:
 ```bash
 python -m venv .venv
 source .venv/bin/activate
 ```
 
 ### Install Dependencies
+Run this in the terminal:
 ```bash
 pip install -r requirements.txt
 ```
 
-
-## Running the Dashboard
-
-### Start the Application
+### Start the Dahboard
+Run this in the terminal:
 ```bash
 python dashboard.py
 ```
