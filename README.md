@@ -127,32 +127,32 @@ in your browser.
 
 Screenshots from dashboard
 
-````md
 ## Dashboard Preview
 
 ### Key Descriptive Statistics
 
-![Key Descriptive Statistics](images/Key descriptives.jpg)
+![Key Descriptive Statistics](images/Key_descriptives.jpg)
 
 ### Stock Price Development
 
-![Stock Price](images/Stock price.jpg)
+![Stock Price](images/Stock_price.jpg)
 
 ### Daily Returns Distribution
 
-![Daily Returns](images/Daily returns.jpg)
+![Daily Returns](images/Daily_returns.jpg)
 
 ### Correlation Matrix
 
-![Correlation Matrix](images/Correlation Matrix.jpg)
+![Correlation Matrix](images/Correlation_Matrix.jpg)
 
 ### Feature Importance
 
-![Feature Importance](images/Feature importance.jpg)
+![Feature Importance](images/Feature_importance.jpg)
 
 ### Confusion Matrix
 
-![Confusion Matrix](images/Confusion matrix.jpg)
+![Confusion Matrix](images/Confusion_matrix.jpg)
+
 
 ## Technologies Used
 * Python
