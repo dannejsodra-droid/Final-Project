@@ -96,7 +96,6 @@ dashboard.py - Interactive Dash dashboard
 
 ## Walkthrough to open Dashboard
 
-### Clone the repository
 ### 1. Clone the Repository
 
 Open VS Code and open a new terminal:
