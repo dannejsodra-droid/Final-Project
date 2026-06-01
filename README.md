@@ -129,9 +129,8 @@ http://127.0.0.1:8050/
 ```
 in your browser.
 
-Screenshots from dashboard
 
-## Dashboard Preview
+## Screenshots from the dashboard
 
 ### Key Descriptive Statistics
 
