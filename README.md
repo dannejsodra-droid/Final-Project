@@ -84,6 +84,7 @@ model.py
 dashboard.py
 requirements.txt
 README.md
+images
 
 ### File Description
 data.py - Data collection and feature engineering
